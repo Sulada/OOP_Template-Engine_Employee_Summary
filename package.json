@@ -1,0 +1,26 @@
+{
+  "name": "oop_template-engine_employee_summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TeamRanderer.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulada/OOP_Template-Engine_Employee_Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sulada/OOP_Template-Engine_Employee_Summary/issues"
+  },
+  "homepage": "https://github.com/Sulada/OOP_Template-Engine_Employee_Summary#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
